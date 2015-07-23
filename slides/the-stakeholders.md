@@ -1,3 +1,7 @@
 ##  The Stakeholders
 
-This is a new Markdown slide
+* The Listener
+* The Marker
+* The Advertiser
+* The Syndicator
+* The App Maker

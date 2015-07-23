@@ -1,13 +1,25 @@
 [
     "index.md",
     "design-problem.md",
-    "podcasts.md",
+    [
+        "podcasts.md",
+        "podcast-1.md",
+        "podcast-5.md",
+        "podcast-2.md",
+        "podcast-3.md",
+        "podcast-4.md"
+    ],
     "podcast-management.md",
     "podcast-discovery.md",
     "the-stakeholders.md",
-    "the-contestants.md",
-    "product-manager.md",
-    "ux-architect.md",
-    "ux-designer.md",
-    "marketer.md"
+    [
+        "the-contestants.md",
+        "product-manager.md",
+        "ux-architect.md",
+        "ux-designer.md",
+        "marketer.md",
+        "elon-musk.md",
+        "wild-west.md"
+    ],
+    "methods.md"
 ]
