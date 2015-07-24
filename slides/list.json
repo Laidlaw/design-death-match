@@ -2,24 +2,30 @@
     "index.md",
     "design-problem.md",
     [
-        "podcasts.md",
-        "podcast-1.md",
-        "podcast-5.md",
-        "podcast-2.md",
-        "podcast-3.md",
-        "podcast-4.md"
+        "podcasts/podcasts.md",
+        "podcasts/podcast-1.md",
+        "podcasts/podcast-5.md",
+        "podcasts/podcast-2.md",
+        "podcasts/podcast-3.md",
+        "podcasts/podcast-4.md"
     ],
-    "podcast-management.md",
-    "podcast-discovery.md",
+    "podcasts/podcast-management.md",
+    "podcasts/podcast-discovery.md",
     "the-stakeholders.md",
     [
-        "the-contestants.md",
-        "product-manager.md",
-        "ux-architect.md",
-        "ux-designer.md",
-        "marketer.md",
-        "elon-musk.md",
-        "wild-west.md"
+        "contestants/the-contestants.md",
+        "contestants/product-manager.md",
+        "contestants/ux-architect.md",
+        "contestants/ux-designer.md",
+        "contestants/marketer.md",
+        "contestants/elon-musk.md",
+        "wild-west.md",
+        "wild-west-2.md"
     ],
-    "methods.md"
+    "methods.md",
+    "pros-and-cons.md",
+    "pros.md",
+    "cons.md",
+    "wwemd.md",
+    "truck-or-road.md"
 ]

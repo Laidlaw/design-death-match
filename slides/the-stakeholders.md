@@ -1,7 +1,7 @@
 ##  The Stakeholders
 
 * The Listener
-* The Marker
+* The Maker
 * The Advertiser
 * The Syndicator
 * The App Maker
